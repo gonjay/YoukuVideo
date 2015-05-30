@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["GonJay"]
   spec.email         = ["me@gonjay.com"]
   spec.summary       = %q{解析出 YouKu 视频的 M3U8 播放地址}
-  spec.description   = %q{Write a longer description. Optional.}
+  spec.description   = %q{通过网页或者 vid 解析出 YouKu 视频的 M3U8 播放地址}
   spec.homepage      = "https://github.com/gonjay/YoukuVideo"
   spec.license       = "MIT"
 
