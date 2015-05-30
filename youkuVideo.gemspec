@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["me@gonjay.com"]
   spec.summary       = %q{解析出 YouKu 视频的 M3U8 播放地址}
   spec.description   = %q{Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/gonjay/YoukuVideo"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
